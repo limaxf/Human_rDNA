@@ -1,0 +1,4 @@
+Homopolymer
+Expansion Segements
+Conserved Resgions
+Pseudogenes
