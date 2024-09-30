@@ -12,6 +12,7 @@ bash runthis.sh
 ### Synthetic data generation
 ```sh
 NEAT_modelgen.sh
+50000Xp01.sh
 ```
 ## 2. Apply what we learned about the Human rDNA profile into Patient EHR, Physical Assessment and Survey Data(All of Us)
 ** recreating the pipeline in All of Us use example.sh
